@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\hasta-826\hasta-826\bin\Debug\hasta-826.exe.config
+C:\Users\User\source\repos\hasta-826\hasta-826\bin\Debug\hasta-826.exe
+C:\Users\User\source\repos\hasta-826\hasta-826\bin\Debug\hasta-826.pdb
+C:\Users\User\source\repos\hasta-826\hasta-826\obj\Debug\hasta-826.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hasta-826\hasta-826\obj\Debug\hasta-826.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\hasta-826\hasta-826\obj\Debug\hasta_826.Form1.resources
+C:\Users\User\source\repos\hasta-826\hasta-826\obj\Debug\hasta_826.Properties.Resources.resources
+C:\Users\User\source\repos\hasta-826\hasta-826\obj\Debug\hasta-826.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hasta-826\hasta-826\obj\Debug\hasta-826.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hasta-826\hasta-826\obj\Debug\hasta-826.exe
+C:\Users\User\source\repos\hasta-826\hasta-826\obj\Debug\hasta-826.pdb
